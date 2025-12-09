@@ -1,14 +1,5 @@
-**OktaGuard – Security Monitoring Service**
+***OktaGuard – Security Monitoring Service***
 
-This README covers:
-
-How to run the project
-
-All REST APIs
-
-Clear explanation of the detection rules exactly matching your code
-
-🚀 Setup Instructions
 1️⃣ Prerequisites
 
 Java 17+
