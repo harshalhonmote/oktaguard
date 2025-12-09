@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: oktaguard
+
+okta:
+  domain: ${OKTA_DOMAIN:https://trial-4746172.okta.com}
+  api-token: ${OKTA_API_TOKEN:00XV2jhFdIoSG4QcgjIw4fbGzZyb8kW8TixG9Bn6Hr}
+  client-id: ${OKTA_CLIENT_ID:0oay5lz5yvdhv5v5r697}
+  client-secret: ${OKTA_CLIENT_SECRET:n5dt_FPHFWaVROkft0KHSfI6j1kKkSob44tLK79B5CBWEfIcfTH1vETcsRtia_ir}
